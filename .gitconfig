@@ -1,9 +1,9 @@
 [core]
 	editor = vim
-	excludesfile = /Users/jdevlieghere/.gitignore_global
+	excludesfile = ~/.gitignore_global
 [user]
-	email = jonas@devlieghere.com
-	name = Jonas Devlieghere
+	email = aphipex@gmail.com
+	name = Andres Montoya
 [push]
 	default = simple
 [grep]
